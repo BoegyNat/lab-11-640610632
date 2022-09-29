@@ -8,5 +8,15 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false
+  },
+  {
+    "username": "user",
+    "password": "$2b$12$OlIoeKxmxFVAS6KPBcnnU.VWq5.hSRgC.d4T2ic0R8vLIjI.gdfDu",
+    "isAdmin": false
+  },
+  {
+    "username": "Fifa",
+    "password": "$2b$12$thBxPY/LDJiJE44k2Y1j1uSMJeFgzGurOE7o653kDZB7daBp7T8Sm",
+    "isAdmin": true
   }
 ]
